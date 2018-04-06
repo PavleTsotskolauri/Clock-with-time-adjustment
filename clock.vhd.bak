@@ -1,0 +1,10 @@
+library IEEE;
+use IEEE.std_logic_1164.all
+
+entity clock
+	
+	port(
+		r_clk, r_reset : in std_logic;
+		
+	)
+	

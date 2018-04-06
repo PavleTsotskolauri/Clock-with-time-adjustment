@@ -1,0 +1,221 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_clock_sec_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_sec_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_sec_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_sec_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_sec_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_sec_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_sec_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_sec_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_sec_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_sec_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_sec_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_sec_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_sec_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_sec_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_min_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_min_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_min_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_min_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_min_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_min_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_min_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_min_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_min_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_min_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_min_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_min_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_min_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_min_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_hour_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_hour_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_hour_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_hour_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_hour_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_hour_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_hour_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_hour_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_hour_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_hour_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_hour_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_hour_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_hour_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_clock_dec_hour_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sec",
+					"strict" : false
+				},
+				{
+					"name" : "mux_state",
+					"strict" : false
+				},
+				{
+					"name" : "demux_state[0]",
+					"strict" : false
+				},
+				{
+					"name" : "demux_state[1]",
+					"strict" : false
+				},
+				{
+					"name" : "demux_state[2]",
+					"strict" : false
+				},
+				{
+					"name" : "demux_state[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_reset",
+					"strict" : false
+				},
+				{
+					"name" : "i_clk",
+					"strict" : false
+				},
+				{
+					"name" : "mode",
+					"strict" : false
+				},
+				{
+					"name" : "next_disp",
+					"strict" : false
+				},
+				{
+					"name" : "inc",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -4,8 +4,8 @@ use IEEE.numeric_std.all;
 -- clock divide entity
 entity clock_div is
 	generic (
-				One_Hz : integer := 25000000;					-- 25MHz generic
-				Ten_Hz : integer := 2500000					-- 2,5MHz generic
+				One_Hz : integer := 25000000;					 -- 25MHz generic
+				Ten_Hz : integer := 2500000							-- 2,5MHz generic
 --				Ten_Hz : integer := 125000						
 				);
 	port(
@@ -53,4 +53,4 @@ begin
 --		o_10Hz_out	<= temp_10Hz;								-- 10hz output
 end bhv;
 
-	
+-- END of File
